@@ -1,4 +1,3 @@
-
 import { Button, Dialog, Label, MenuItem } from '@blueprintjs/core';
 import { Select } from '@blueprintjs/select';
 import { observer } from 'mobx-react';
